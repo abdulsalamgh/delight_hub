@@ -41,7 +41,7 @@ Open http://localhost:3000 in your browser to start exploring Delight Hub!
 ## Project Walkthrough
 ### Demo Video
 
-Watch Delight Hub in action! Check out the [demo video link] to see the intuitive interface, cart functionality, and smooth checkout process.
+Watch Delight Hub in action! Check out the [video](https://drive.google.com/file/d/1OpB8eAM2GJXD9bS9f7Nzo7WUNrzk8jVS/view?usp=sharing) to see the intuitive interface, cart functionality, and smooth checkout process.
 
 ### Code Exploration
 Dive into the codebase and unleash your inner developer! The project structure is well-organized and documented, making it easy to understand and customize.

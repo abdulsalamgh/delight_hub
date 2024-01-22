@@ -2,6 +2,9 @@ Delight Hub: Food Ordering with Style
 
 Get your taste buds dancing with Delight Hub, a sleek and user-friendly food ordering platform built with React and Vite!
 
+Live Demo:
+https://kaleidoscopic-caramel-953c5e.netlify.app/
+
 Project Overview:
 
 Purpose: 
@@ -20,13 +23,17 @@ Key Features:
     ✨ Responsive design, optimized for any device
 
 Getting Started:
-    Clone the Repository:
+    
+Clone the Repository:
     git clone https://github.com/abdulsalamgh/delight_hub.git
-    Install Dependencies:
+    
+Install Dependencies:
     npm install
-    Run the Development Server:
+    
+Run the Development Server:
     npm run dev
-    Open http://localhost:3000 in your browser to explore Delight Hub!
+    
+Open http://localhost:3000 in your browser to explore Delight Hub!
 
 Project Walkthrough:
 
